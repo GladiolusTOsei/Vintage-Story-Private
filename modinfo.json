@@ -1,0 +1,11 @@
+{
+  "type": "content",
+  "name": "Drying Fruit Private",
+  "ModID": "dryingfruit",
+  "description": "Adds a way to dry all fruits",
+  "website": "",
+  "author": "Gladiolus",
+  "Side": "Universal",
+  "version": "1.0.0",
+  "dependancy": { "game": "1.20.11" }
+}
